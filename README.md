@@ -12,6 +12,6 @@ This is knowledge in the web design to made own portfolio webpage.
 **steps to run the project **
    bash
    git clone
-   https://github.com/varun481/varun_portfolio.git
+   https://github.com/varun481/varun-portfolio.git
 # My project
 5486ea0 (Added README)
