@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # varun_portfolio
 my portfolio
 ## task objectives
@@ -10,9 +10,8 @@ This is knowledge in the web design to made own portfolio webpage.
 4.reponsive design
 
 **steps to run the project **
--->bash
+   bash
    git clone
    https://github.com/varun481/varun_portfolio.git
-=======
 # My project
->>>>>>> 5486ea0 (Added README)
+5486ea0 (Added README)
